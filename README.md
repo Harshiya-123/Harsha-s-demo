@@ -1,4 +1,4 @@
 # Harsha-s-demo
 This is my first Repository.
 <br>
-Author : Harshiya(RNSIT)
+Author : Harshiya MB(RNSIT)
